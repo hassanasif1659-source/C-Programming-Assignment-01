@@ -4,4 +4,4 @@
 2. Elevator Simulation
 3. Class Result Processing
 4. Online Shopping Bill Calculator
-5.  5. Smart Campus Parking System 6. Smart EV Charging and Parking System
+5. Smart Campus Parking System 6. Smart EV Charging and Parking System
